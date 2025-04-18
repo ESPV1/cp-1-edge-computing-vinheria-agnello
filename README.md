@@ -17,7 +17,15 @@ O diagnóstico será feito da seguinte forma:
 - 🔴 LED Vermelho -> Indica caso exista algum problema.
 
 ## 🧭 Material
-**Aguardando Contagem...**
+- 01 Arduino UNO = Para controlar o sistema
+- 01 Breadboard = para montagem do circuito
+- Cabos Jumper = Para realizar as conexões na breadboard
+- 04 Resistores = 3 para os LED e 01 para o LDR
+- 01 LED Verde 🟢 = Para indicar que está tudo OK
+- 01 LED Amarelo 🟡 = Para indicar ALERTA
+- 01 LED Vermelho 🔴 = Para indicar PROBLEMA
+- 01 Buzzer 🔈 = Tem que ser ativado quando LED amarelo (ALERTA) estiver aceso
+- 01 LDR = Sensor para medir a luminosidade do ambiente
 
 ## 🔗Como acessar o projeto
 Para acessar o diagrama do projeto [clique aqui](https://www.tinkercad.com/things/gb3a7xdKSyy/editel?returnTo=%2Fdashboard&sharecode=m3Z69XnJ7JPIrK6wyWeotM_hYOcPNgquUM6DGji93v0)
