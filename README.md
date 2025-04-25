@@ -29,6 +29,7 @@ O diagnóstico será feito da seguinte forma:
 
 ## 🔗Como acessar o projeto
 Para acessar o diagrama do projeto [clique aqui](https://www.tinkercad.com/things/69qvz5X05jW/editel?sharecode=08fA4-0DQeEux2ti93Sq45-U7FivLkGPYdhv3IgrCC4)
+Link para o video sobre o projeto: https://youtu.be/QzQaCtGRsuw
 
 ## 🧰 Tecnologias utilizadas
 - Software de Repósitorio Remoto: GitHub
