@@ -9,7 +9,7 @@ Uma das particularidades relevantes dos vinhos é o risco de sua degradação, o
 Nesta primeira etapa da solução, será desenvolvido um sistema que possa captar a luminosidade do ambiente para criar condições adequadas de armazenamento. Para que isto possa ser informado aos responsáveis pelo estoque, teremos um indicador de LED que informará qual a condição de luminosidade ambiente que o produto se encontra. Além dos LEDs para auxiliar no diagnóstico, teremos também uma buzina que irá informar no caso de a luminosidade do ambiente estar completamente fora das condições ideais.
 
 ## 🛠️ Detalhes Tecnicos
-Para poder captar e tratar dados sobre a luminosidade, iremos utilizar um componente chamado LDR (Light Dependent Resistor), cujo princípio de funcionamento é alterar a condutividade quando há presença ou ausência de luz. Isto, junto a resistores, pode ser aplicado para criar condições específicas. O funcionamento técnico do LDR pode ser analisado da seguinte forma: mais luminosidade gera menos resistência e maior a corrente, por outro lado, quanto menos luminosidade, maior a resistência e menor a corrente.
+Para poder captar e tratar dados sobre a luminosidade, iremos utilizar um componente chamado LDR (Light Dependent Resistor), cujo princípio de funcionamento é alterar a condutividade quando há presença ou ausência de luz. Isto, junto a resistores, pode ser aplicado para criar condições específicas. O funcionamento técnico do LDR pode ser analisado da seguinte forma: maior a luminosidade gera menos resistência e maior a corrente/tensão, por outro lado, quanto menos luminosidade, maior a resistência e menor a corrente/tensão.
 
 O diagnóstico será feito da seguinte forma: 
 - 🟢 LED Verde -> Em caso de a luminosidade ambiente seja adequada para o produto.
@@ -28,7 +28,7 @@ O diagnóstico será feito da seguinte forma:
 - 01 LDR = Sensor para medir a luminosidade do ambiente
 
 ## 🔗Como acessar o projeto
-Para acessar o diagrama do projeto [clique aqui](https://www.tinkercad.com/things/gb3a7xdKSyy/editel?returnTo=%2Fdashboard&sharecode=m3Z69XnJ7JPIrK6wyWeotM_hYOcPNgquUM6DGji93v0)
+Para acessar o diagrama do projeto [clique aqui](https://www.tinkercad.com/things/69qvz5X05jW/editel?sharecode=08fA4-0DQeEux2ti93Sq45-U7FivLkGPYdhv3IgrCC4)
 
 ## 🧰 Tecnologias utilizadas
 - Software de Repósitorio Remoto: GitHub
